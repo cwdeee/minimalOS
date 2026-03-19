@@ -36,7 +36,7 @@ Unterstützte Architekturen: amd64, arm64, i386 (32bit)
 ## .iso-Datei bauen
 
 ```bash
-sudo apt install syslinux-utils
+sudo apt install syslinux-utils genisoimage
 git clone https://github.com/Jean28518/minimalOS.git
 cd minimalOS
 ```
